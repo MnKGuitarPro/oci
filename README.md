@@ -11,8 +11,7 @@ Esta guía está orientada para quienes están comenzando con *Oracle Cloud Infr
 
 Entre los servicios documentados en esta guía de inicio, se encuentran:
 
-- [Instancias Virtuales]()
-
-## Modificar Grupos de Seguridad de Red usando CLI
-
-- Primero, 
+- [Espacio de nombres de etiquetas](https://github.com/MnKGuitarPro/oci/blob/master/tag-namespace/tag-namespace.md)
+- [Compartimentos](https://github.com/MnKGuitarPro/oci/blob/master/compartment/compartment.md)
+- [Instancias Virtuales](https://github.com/MnKGuitarPro/oci/blob/master/vm/vm.md)
+- [Auditoría y *logs*](https://github.com/MnKGuitarPro/oci/blob/master/log/log.md)

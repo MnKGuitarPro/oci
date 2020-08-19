@@ -44,9 +44,9 @@ Antes de crear la instancia, naveguemos por algunas de las opciones que hay disp
 
 Notamos que hay algunos elementos que hacen referencia a características propias de la instancia virtual (su sistema operativo, o el volumen de inicio) y otras características que hacen referencia a **otros servicios**, por lo que recomiendo tener primero resueltos y configurados dichos requisitos o dependencias, los cuales son:
 
-- Un `Espacio de nombres` para `Etiquetas`
-    - `Etiquetas`
-- Un `Compartimento`
+- [Un `Espacio de nombres` para `Etiquetas`](https://github.com/MnKGuitarPro/oci/blob/master/tag-namespace/tag-namespace.md)
+    - [`Etiquetas`](https://github.com/MnKGuitarPro/oci/blob/master/tag-namespace/tag-namespace.md#creaci%C3%B3n-de-etiquetas)
+- [Un `Compartimento`](https://github.com/MnKGuitarPro/oci/blob/master/compartment/compartment.md)
 - Una `Red Virtual en la Nube`
     - Una `Subred`
     - Un `Grupo de Seguridad`
