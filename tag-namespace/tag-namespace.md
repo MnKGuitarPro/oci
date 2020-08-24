@@ -12,9 +12,9 @@
         <li><b>Nota</b>: Para cambiar el idioma de la interfaz, se debe ir a la esquina superior derecha, al ícono del globo terráqueo, y seleccionando posteriormente el idioma Español de la lista. En esta documentación haré referencias a los nombres de los servicios en Español, así que puede ser una buena idea tener dicho idioma para poder ubicarnos tanto en la interfaz, como en los servicios referenciados</li>
     </ol>
 
-<span style="display:block;text-align:center"><img src=https://s3.amazonaws.com/dpavezs.image/oci/github/language-01.png alt="drawing" width="300"/></span>
+<p align="center"><img width="300" src="https://s3.amazonaws.com/dpavezs.image/oci/github/language-01.png"></p>
 
-<span style="display:block;text-align:center"><img src=https://s3.amazonaws.com/dpavezs.image/oci/github/tag-namespace-01.png alt="drawing" width="600"/></span>
+<p align="center"><img width="600" src="https://s3.amazonaws.com/dpavezs.image/oci/github/tag-namespace-01.png"></p>
 
 2. Daremos clic en el botón azul que indica `Crear definición de espacio de nombres`
 
