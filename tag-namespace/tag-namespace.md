@@ -17,14 +17,15 @@
 |![language-01](https://s3.amazonaws.com/dpavezs.image/oci/github/language-01.png)|
 |:--:| 
 | *Fig. 01 - Cambio de Idioma de la Interfaz* |
+
 </center>
 
-<center>
+<p align="center">
 
 |![tag-namespace-01](https://s3.amazonaws.com/dpavezs.image/oci/github/tag-namespace-01.png)|
 |:--:| 
 | *Fig. 02 - Ir al menú de Espacios de nombres de etiquetas* |
-</center>
+</p>
 
 2. Daremos clic en el botón azul que indica `Crear definición de espacio de nombres`
 
