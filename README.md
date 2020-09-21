@@ -3,7 +3,7 @@
 ## Requisitos
 
 1. Una cuenta en *Oracle Cloud Infrastructure*
-2. Créditos suficientes para hacer pruebas. Se puede utilizar [la opción de *Free Tier*](https://www.oracle.com/cl/cloud/free/) que permite una prueba gratuita con $300 dólares en créditos para probar los servicios
+2. Créditos suficientes para poder utilizar los recursos y servicios acá utilizados. Se puede utilizar [la opción de *Free Tier*](https://www.oracle.com/cl/cloud/free/) que permite una prueba gratuita con $300 dólares en créditos para probar los servicios
 
 ## Contenidos
 
